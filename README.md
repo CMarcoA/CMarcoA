@@ -1,4 +1,9 @@
-## Hi there 👋
+## Computer Science Undergrade @ UofManitoba👋
+
+## Currently 
+- Getting more and more into UI and out on the psychology behind why people click
+- Getting more active in Githib, buiding projects, and contributing (working on it 😄)
+- Building a habit to problem solve (Leetcode ? hopefully 🤔)
 
 <!--
 **CMarcoA/CMarcoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
