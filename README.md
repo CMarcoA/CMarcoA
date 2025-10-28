@@ -1,7 +1,8 @@
 ## Computer Science Undergrade @ UofManitoba👋
 
 ## Currently 
-- Getting more and more into UI and out on the psychology behind why people click
+- Getting more and more into **UI** and nerding out on the psychology behind why people click
+- Messing around with Robotics, ultimate goal: a pancake bot that flips better than me :neckbeard:
 - Getting more active in Githib, buiding projects, and contributing (working on it 😄)
 - Building a habit to problem solve (Leetcode ? hopefully 🤔)
 
