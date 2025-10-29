@@ -7,7 +7,8 @@
 - Getting more active in Github, buiding projects, and contributing (working on it 😄)
 - Building a habit to problem solve (Leetcode ? hopefully 🤔)
 
-![Website | Ongoing](https://img.shields.io/badge/awesome-yes-ff69b4)
+[![Website | Ongoing](https://img.shields.io/badge/Website%20%7C%20Ongoing-visit-ffaa00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cmarcoa.github.io/My_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/claudius-marco-andrew/))
 <!--
 **CMarcoA/CMarcoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
