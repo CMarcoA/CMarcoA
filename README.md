@@ -7,7 +7,7 @@
 - Getting more active in Github, buiding projects, and contributing (working on it 😄)
 - Building a habit to problem solve (Leetcode ? hopefully 🤔)
 
-![Awesome](https://img.shields.io/badge/awesome-yes-ff69b4)
+![Website | Ongoing](https://img.shields.io/badge/awesome-yes-ff69b4)
 <!--
 **CMarcoA/CMarcoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
