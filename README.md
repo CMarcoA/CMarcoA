@@ -1,4 +1,4 @@
-## Hii'm Marco 👋 a Computer Science Undergrade @ UofManitoba�
+## Hi i'm Marco 👋 a Computer Science Undergrade @ UofManitoba�
 
 ## Currently 
 - Getting more and more into **UI** and nerding out on the psychology behind why people click
