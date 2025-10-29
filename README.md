@@ -1,4 +1,4 @@
-## Computer Science Undergrade @ UofManitoba👋
+## Hii'm Marco 👋 a Computer Science Undergrade @ UofManitoba�
 
 ## Currently 
 - Getting more and more into **UI** and nerding out on the psychology behind why people click
@@ -10,7 +10,8 @@
 [![Website | Ongoing](https://img.shields.io/badge/Website%20%7C%20Ongoing-visit-ffaa00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cmarcoa.github.io/My_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudius-marco-andrew/)
 
-![bulldog swinging](https://media1.tenor.com/m/b4ulnyh3l7QAAAAd/dog.gif)
+<img src="https://media1.tenor.com/m/b4ulnyh3l7QAAAAd/dog.gif" alt="bulldog swinging" width="220">
+
 
 
 
