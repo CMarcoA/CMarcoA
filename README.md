@@ -1,7 +1,7 @@
 ## Hi i'm Marco 👋 a Computer Science Undergrade @ UofManitoba
 
 ## Currently 
-- Getting more and more into **UI** and nerding out on the psychology behind why people click
+- Nerding out more and more into **UI**
 - Messing around with **Robotics** ultimate goal: a pancake bot that flips better than me :neckbeard:
 
 - Getting more active in Github, buiding projects, and contributing (working on it 😄)
