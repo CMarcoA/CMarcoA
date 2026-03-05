@@ -2,7 +2,7 @@
 
 ## Currently 
 - Nerding out more and more into **UI**
-- Messing around with **Robotics** ultimate goal: a pancake bot that flips better than me :neckbeard:
+- Messing around with **Robotics** ultimate goal: a bot that will clean my desk :neckbeard:
 
 - Getting more active in Github, buiding projects, and contributing (working on it 😄)
 - Building a habit to problem solve (Leetcode ? hopefully 🤔)
